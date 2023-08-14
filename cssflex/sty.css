@@ -1,0 +1,36 @@
+        .mainbox {
+            display: flexbox;
+            justify-content: center;
+            margin: 20px;
+            padding: 10px;
+            border: 2px solid black;
+            line-height: 30px;
+            background-color: rgb(217, 212, 204);
+        }
+        
+        .name {
+            display: flexbox;
+            -ms-flex-align: start;
+            flex-wrap: wrap;
+            line-height: 5px;
+        }
+        
+        h1 {
+            display: flexbox;
+            justify-content: center;
+            text-align: center;
+        }
+        
+        .block1 {
+            display: flexbox;
+            justify-content: center;
+            margin: 20px;
+            padding: 10px;
+            border: 2px solid black;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        .block11 {
+            display: block;
+            font-family: Arial, Helvetfonica, sans-serif
+        }
